@@ -83,7 +83,7 @@ Add your validator key:
 teritorid keys add <YOUR_KEY>
  ```  
  
-You can also you `--recover` flag to use an already existed key (but we recommend for security reason to use one key per chain to avoid total loss of funds in case one key is missing)  
+You can also use `--recover` flag to retrieve an already existed key (but we recommend for security reason to use one key per chain to avoid total loss of funds in case one key is missing)  
 
 Add genesis account:
 ```shell
@@ -96,7 +96,7 @@ teritorid gentx <YOUR_KEY> 5000000utori --moniker="" --min-self-delegation="1000
 ```
 
 ## Note:
-1. Save `<YOUR_KEY` seed phrase and `priv_validator_key.json` from the .teritorid/config folder, in a secure place offline.
+1. Save `<YOUR_KEY>` seed phrase and `priv_validator_key.json` from the .teritorid/config folder, in a secure place offline.
 2. Do not add more than 10 TORI (10000000 utori) on genesis account or your PR gonna be rejected.
 
 
