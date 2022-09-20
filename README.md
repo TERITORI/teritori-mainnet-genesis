@@ -34,7 +34,6 @@ Munris
 Silk Nodes
 Gata DAO
 Orbital Apes
-Orbital Apes
 Atlas DAO
 ```
 
