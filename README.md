@@ -100,7 +100,7 @@ teritorid gentx <YOUR_KEY> 5000000utori --moniker="" --min-self-delegation="1000
 2. Do not add more than 10 TORI (10000000 utori) on genesis account or your PR gonna be rejected.
 
 
-
+## Push the GenTx generated to the repository
 Fork this repository and clone the repo  
 Copy `$HOME/.teritorid/config/gentx/gentx-<xxxxx>.json` to `<repo>/gentx/<Moniker>.json`  
 Create PR into the repo
