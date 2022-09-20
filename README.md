@@ -95,9 +95,12 @@ Create the gentx:
 teritorid gentx <YOUR_KEY> 5000000utori --moniker="" --min-self-delegation="1000000" --commission-max-change-rate="0.01" --commission-max-rate="0.20"  --commission-rate=0.05 --website="" --identity="" --security-contact="" --details="" --chain-id=teritori-1
 ```
 
-# Note:
-# 1. Save `<YOUR_KEY` seed phrase and `priv_validator_key.json` from the .teritorid/config folder, in a secure place offline.
-# 2. Do not add more than 10 TORI (10000000 utori) on genesis account or your PR gonna be rejected.
-# 4. Fork this repository and clone the repo
-# 5. Copy `$HOME/.teritorid/config/gentx/gentx-<xxxxx>.json` to `<repo>/gentx/<Moniker>.json`
-# 6. Create PR into the repo
+## Note:
+1. Save `<YOUR_KEY` seed phrase and `priv_validator_key.json` from the .teritorid/config folder, in a secure place offline.
+2. Do not add more than 10 TORI (10000000 utori) on genesis account or your PR gonna be rejected.
+
+
+
+Fork this repository and clone the repo  
+Copy `$HOME/.teritorid/config/gentx/gentx-<xxxxx>.json` to `<repo>/gentx/<Moniker>.json`  
+Create PR into the repo
