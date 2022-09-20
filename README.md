@@ -35,7 +35,6 @@ Silk Nodes
 Gata DAO
 Orbital Apes
 Atlas DAO
-Stake-Take
 ```
 
 ## How to create gentx
