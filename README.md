@@ -2,10 +2,46 @@
 
 This is the repo to manage gentxs and create mainnet genesis.
 
+## List of validators to be on genesis
+
+```
+Forbole
+StakeLab
+HashQuark
+Lavender
+Polkachu
+Crost nest
+Active Nodes
+WhisperNode
+Nodes.Guru
+Chill Validation
+Inter Blockchain Services
+Noderunners
+StakingCabin
+Golden Ratio Staking
+RHINO
+Web34ever
+Cosmic Validator
+Oni Validator
+Node Jumper
+Nysa Network
+Wetez
+AAA MetaHuahua
+Samouraï World
+NodesBlocks
+ibrahimarslan
+Munris
+Silk Nodes
+Gata DAO
+Orbital Apes
+Orbital Apes
+Atlas DAO
+```
+
 ## How to create gentx
 
 1. Install `go` and configure `GOPATH`
-2. Install `teritorid` binary
+2. Install `teritorid` binary from `https://github.com/TERITORI/teritori-chain/tree/mainnet`
 3. Generate gentx
 
 ```sh
