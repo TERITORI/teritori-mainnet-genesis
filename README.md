@@ -37,6 +37,18 @@ Orbital Apes
 Atlas DAO
 teritori-core-1
 fungi-familiies-nft
+Ericet
+AlxVoy
+lesnik_utsa
+n0ok[MC]
+SR KALIA NETWORK
+romanv1812
+STAVR
+Aurie
+landeros
+DiBugNodes
+StingRay
+iCosmosDAO
 ```
 
 ## How to create gentx
