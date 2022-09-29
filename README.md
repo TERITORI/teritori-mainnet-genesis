@@ -54,6 +54,13 @@ iCosmosDAO
 Berty
 maethstro
 Nodejumper
+GATADAO
+HighStakes
+Onbloc Node
+forbole
+freemint
+kjnodes
+nxtpop
 ```
 
 ## How to create gentx
