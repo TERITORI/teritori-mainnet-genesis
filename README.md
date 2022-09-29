@@ -19,6 +19,7 @@ Inter Blockchain Services
 Noderunners
 StakingCabin
 Golden Ratio Staking
+Gopher
 RHINO
 Web34ever
 Cosmic Validator
@@ -36,6 +37,7 @@ Gata DAO
 Orbital Apes
 Atlas DAO
 teritori-core-1
+teritori-core-2
 fungi-familiies-nft
 Ericet
 AlxVoy
@@ -49,6 +51,9 @@ landeros
 DiBugNodes
 StingRay
 iCosmosDAO
+Berty
+maethstro
+Nodejumper
 ```
 
 ## How to create gentx
