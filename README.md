@@ -57,7 +57,6 @@ Nodejumper
 GATADAO
 HighStakes
 Onbloc Node
-forbole
 freemint
 kjnodes
 nxtpop
