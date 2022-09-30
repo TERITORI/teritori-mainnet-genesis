@@ -38,7 +38,6 @@ Orbital Apes
 Atlas DAO
 teritori-core-1
 teritori-core-2
-fungi-familiies-nft
 Ericet
 AlxVoy
 lesnik_utsa
@@ -53,7 +52,6 @@ StingRay
 iCosmosDAO
 Berty
 maethstro
-Nodejumper
 GATADAO
 HighStakes
 Onbloc Node
